@@ -1,0 +1,16 @@
+{
+  "name": "screen-compare",
+  "version": "0.0.1",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Bowes",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^16.1.1",
+    "puppeteer-screenshot-tester": "^1.5.0",
+    "yargs": "^17.5.1"
+  }
+}
