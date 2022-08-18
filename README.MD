@@ -21,3 +21,5 @@ Make your changes then:
 ```
 npm run compare -- --path "<url here>"
 ```
+
+Screenshots and diffs are output to the "screenshots" folder
